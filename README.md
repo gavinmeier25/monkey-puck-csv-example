@@ -1,6 +1,6 @@
 # The final returned data from the endpoint looks like this for one entry 
 
-{
+`{
   "data": {
     "gameId": 2008020014,
     "other": {
@@ -523,4 +523,4 @@
       "scoreFlurryAdjustedTotalShotCreditAgainst": 0.083
     }
   }
-}
+}`
